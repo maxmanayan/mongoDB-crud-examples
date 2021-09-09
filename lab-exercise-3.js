@@ -1,3 +1,7 @@
+// from local computer:
+// database: mthree-labs
+// collection: bands
+
 // Update documents in 'bands' collection:
 
 // 1. City of Guns n' Roses to Los Angeles.
